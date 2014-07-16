@@ -1,0 +1,50 @@
+Cerberus
+========
+
+Release: 0.1.0-dev
+
+
+Description
+-----------
+
+Cerberus is a lightweight authentication library supporting multiple
+authentication providers and storages. It is based on Zend Auth.
+
+
+Installation
+------------
+
+Requirements:
+
+ - PHP 5.3+
+
+
+Documentation
+-------------
+
+Documentation is available in the 'doc' directory.
+
+
+Contributing
+------------
+
+Open issue or send pull request on Github
+[https://github.com/berrybird/cerberus].
+
+
+Authors
+-------
+
+Maintainer:
+
+ - Miodrag Tokić
+
+Credits:
+
+ - Zend framework [http://framework.zend.com]
+
+
+License
+-------
+
+This package is released under the New BSD License.
