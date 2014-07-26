@@ -89,6 +89,16 @@ class PDOAuthenticationAdapter implements AuthenticationAdapter
     }
 
     /**
+     * Closes PDO connection
+     *
+     * @return  void
+     */
+    public function __destruct()
+    {
+        $this->pdo = null;
+    }
+
+    /**
      * Sets credentials for authentication
      *
      * @param   string  $identity  Identity
