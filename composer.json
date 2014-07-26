@@ -1,6 +1,6 @@
 {
     "name": "berrybird/cerberus",
-    "description": "Core application functions",
+    "description": "Lightweight authentication library based on Zend Auth",
     "homepage": "https://github.com/berrybird/cerberus",
     "license": "BSD-3-Clause",
     "support": {
