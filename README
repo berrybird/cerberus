@@ -16,7 +16,7 @@ Installation
 
 Requirements:
 
- - PHP 5.3+
+ - PHP 5.3.3 or newer
 
 
 Documentation
@@ -28,7 +28,7 @@ Documentation is available in the 'doc' directory.
 Contributing
 ------------
 
-Open issue or send pull request on Github
+Open an issue or send a pull request on Github
 [https://github.com/berrybird/cerberus].
 
 
@@ -48,3 +48,4 @@ License
 -------
 
 This package is released under the New BSD License.
+
