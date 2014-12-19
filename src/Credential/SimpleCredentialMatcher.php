@@ -6,7 +6,7 @@ namespace Berrybird\Cerberus\Credential;
  * Compares two credentials
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 class SimpleCredentialMatcher implements CredentialMatcher
 {

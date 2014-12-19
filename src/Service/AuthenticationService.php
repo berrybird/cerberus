@@ -9,7 +9,7 @@ use Berrybird\Cerberus\Result;
  * Authentication service
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 interface AuthenticationService
 {

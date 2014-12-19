@@ -8,7 +8,7 @@ namespace Berrybird\Cerberus\Credential;
  * @see  https://crackstation.net/hashing-security.htm?=rd#slowequals
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 class SlowCredentialMatcher implements CredentialMatcher
 {

@@ -8,7 +8,7 @@ namespace Berrybird\Cerberus\Storage;
  * Manages authentication identity
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 interface Storage
 {

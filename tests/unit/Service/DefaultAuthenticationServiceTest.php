@@ -21,7 +21,7 @@ use Berrybird\Cerberus\Result;
  * @coversDefaultClass  \Berrybird\Cerberus\Service\DefaultAuthenticationService
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 class DefaultAuthenticationServiceTest extends \PHPUnit_Framework_TestCase
 {

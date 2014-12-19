@@ -8,7 +8,7 @@ use Berrybird\Cerberus\Result;
  * Class description
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 interface AuthenticationAdapter
 {

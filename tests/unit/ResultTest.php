@@ -10,7 +10,7 @@ namespace Berrybird\Cerberus;
  * @coversDefaultClass  \Berrybird\Cerberus\Result
  *
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
- * @license    New BSD
+ * @license    BSD-3-Clause
  */
 class ResultTest extends \PHPUnit_Framework_TestCase
 {
