@@ -18,6 +18,18 @@ Requirements:
 
  - PHP 5.3.3 or newer
 
+Installing using Composer:
+
+'composer.json' definition
+
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/berrybird/cerberus"
+    }],
+    "require": {
+        "berrybird/cerberus": "dev-develop"
+    }
+
 
 Documentation
 -------------
