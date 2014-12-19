@@ -5,7 +5,7 @@ namespace Berrybird\Cerberus\Credential;
 /**
  * Compares two credentials in a length-constant time.
  *
- * @link  https://crackstation.net/hashing-security.htm?=rd#slowequals
+ * @see  https://crackstation.net/hashing-security.htm?=rd#slowequals
  *
  * @package    Berrybird\Cerberus\Credential
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
