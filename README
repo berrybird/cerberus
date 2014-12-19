@@ -1,7 +1,7 @@
 Cerberus
 ========
 
-Release: 0.1.0-dev
+Current release: 0.1.0-dev
 
 
 Description
@@ -22,14 +22,14 @@ Requirements:
 Documentation
 -------------
 
-Documentation is available in the 'doc' directory.
+N/A
 
 
 Contributing
 ------------
 
 Open an issue or send a pull request on Github
-[https://github.com/berrybird/cerberus].
+(https://github.com/berrybird/cerberus).
 
 
 Authors
@@ -41,11 +41,14 @@ Maintainer:
 
 Credits:
 
- - Zend framework [http://framework.zend.com]
+ - Zend framework (http://framework.zend.com)
 
 
-License
--------
+Copyright
+---------
 
-This package is released under the New BSD License.
+Copyright (C) 2011-2014 Miodrag Tokić.
+
+Released under the BSD-2-Clause License. See the LICENSE file for
+details.
 
