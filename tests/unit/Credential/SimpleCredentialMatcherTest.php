@@ -10,7 +10,6 @@ namespace Berrybird\Cerberus\Credential;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Credential\SimpleCredentialMatcher
  *
- * @package    Berrybird\Cerberus\Credential
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */

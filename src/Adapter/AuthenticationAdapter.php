@@ -7,7 +7,6 @@ use Berrybird\Cerberus\Result;
 /**
  * Class description
  *
- * @package    Berrybird\Cerberus\Adapter
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */

@@ -9,7 +9,6 @@ namespace Berrybird\Cerberus;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Result
  *
- * @package    Berrybird\Cerberus
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */

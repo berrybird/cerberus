@@ -7,7 +7,6 @@ namespace Berrybird\Cerberus\Credential;
  *
  * @see  https://crackstation.net/hashing-security.htm?=rd#slowequals
  *
- * @package    Berrybird\Cerberus\Credential
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */

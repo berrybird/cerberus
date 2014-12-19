@@ -20,7 +20,6 @@ use Berrybird\Cerberus\Result;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Service\DefaultAuthenticationService
  *
- * @package    Berrybird\Cerberus\Service
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */

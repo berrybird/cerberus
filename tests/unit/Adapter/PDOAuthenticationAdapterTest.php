@@ -15,7 +15,6 @@ use Berrybird\Cerberus\Result;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Adapter\PDOAuthenticationAdapter
  *
- * @package    Berrybird\Cerberus\Adapter
  * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
  * @license    New BSD
  */
