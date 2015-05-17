@@ -7,9 +7,6 @@
         "issues": "https://github.com/berrybird/cerbers/issues",
         "source": "https://github.com/berrybird/cerberus"
     },
-    "config": {
-        "vendor-dir": "lib"
-    },
     "require": {
         "php": ">=5.3.3"
     },
