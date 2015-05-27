@@ -10,7 +10,7 @@ namespace Berrybird\Cerberus\Credential;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Credential\SlowCredentialMatcher
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 class SlowCredentialMatcherTest extends CredentialMatcherTest

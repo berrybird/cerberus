@@ -7,7 +7,7 @@ namespace Berrybird\Cerberus\Adapter;
  *
  * Thrown if authentication adapter encounters error
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 class AdapterException extends \Exception {}

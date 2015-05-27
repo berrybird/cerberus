@@ -5,7 +5,7 @@ namespace Berrybird\Cerberus\Credential;
 /**
  * Base CredentialMatcher test case
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 abstract class CredentialMatcherTest extends \PHPUnit_Framework_TestCase

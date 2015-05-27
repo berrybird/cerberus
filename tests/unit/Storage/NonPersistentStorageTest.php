@@ -10,7 +10,7 @@ namespace Berrybird\Cerberus\Storage;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Storage\NonPersistentStorage
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 class NonPersistentStorageTest extends \PHPUnit_Framework_TestCase

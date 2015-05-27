@@ -15,7 +15,7 @@ use Berrybird\Cerberus\Result;
  *
  * @coversDefaultClass  \Berrybird\Cerberus\Adapter\PDOAuthenticationAdapter
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 class PDOAuthenticationAdapterTest extends \PHPUnit_Framework_TestCase

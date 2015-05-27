@@ -9,7 +9,7 @@ use Berrybird\Cerberus\Storage\Storage;
 /**
  * Default authentication service provided by this package
  *
- * @copyright  Copyright (C) 2011-2014 Miodrag Tokić
+ * @copyright  Copyright (C) 2011-2015 Miodrag Tokić
  * @license    BSD-3-Clause
  */
 class DefaultAuthenticationService implements AuthenticationService
