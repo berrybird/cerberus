@@ -10,5 +10,5 @@ namespace Berrybird\Cerberus;
  */
 final class Version
 {
-    const VERSION = '0.1.0-dev';
+    const VERSION = '0.1.0';
 }
