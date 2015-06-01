@@ -27,7 +27,7 @@ Installing using Composer:
         "url": "https://github.com/berrybird/cerberus"
     }],
     "require": {
-        "berrybird/cerberus": "dev-develop"
+        "berrybird/cerberus": "~0.1"
     }
 
 
